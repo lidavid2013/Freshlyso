@@ -1,0 +1,10 @@
+2020-11-29T11:33:19+00:00 CRITICAL ob_start(): Cannot use output buffering in output buffering display handlers in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/wordpress-seo/src/integrations/front-end/category-term-description.php on line 45
+
+2020-11-29T11:33:19+00:00 CRITICAL ob_start(): Cannot use output buffering in output buffering display handlers in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/wordpress-seo/src/integrations/front-end/category-term-description.php on line 45
+
+2020-11-29T11:49:11+00:00 CRITICAL ob_start(): Cannot use output buffering in output buffering display handlers in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/wordpress-seo/src/integrations/front-end/category-term-description.php on line 45
+
+2020-11-29T12:16:22+00:00 CRITICAL ob_start(): Cannot use output buffering in output buffering display handlers in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/wordpress-seo/src/integrations/front-end/category-term-description.php on line 45
+
+2020-11-29T12:16:23+00:00 CRITICAL ob_start(): Cannot use output buffering in output buffering display handlers in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/wordpress-seo/src/integrations/front-end/category-term-description.php on line 45
+
